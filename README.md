@@ -28,8 +28,8 @@ The client wants an application that allows for recording call related informati
 2. The call center employee should select the reason for the call from a list of options
   * Options for the List of Reasons
      * Web-site
-     * dministration
-     * Rransactions
+     * Administration
+     * Transactions
 
 
 ### Based on the Reason selected by the call center employee a list of fields should appear allowing the call center employee to write information about the call but also prompting and reminding them to ask the caller for certain information.
