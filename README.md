@@ -15,9 +15,9 @@ The client wants an application that allows for recording call related informati
  ## Techincal Requirements
 
 1. Display information for the employee to type in certain information while assisting callers.
-  *Contact Information about the Caller:
-  *Name (required)
-  *Call back number (required)
+  * Contact Information about the Caller:
+  * Name (required)
+  * Call back number (required)
   * Email address. (optional)
   
 2. The call center employee should select the reason for the call from a list of options
