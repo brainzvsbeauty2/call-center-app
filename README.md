@@ -14,56 +14,56 @@ The client wants an application that allows for recording call related informati
 
  ## Techincal Requirements
 
-Display information for the employee to type in certain information while assisting callers.
-  Contact Information about the Caller:
-  Name (required)
-  Call back number (required)
-  Email address. (optional)
+1. Display information for the employee to type in certain information while assisting callers.
+  *Contact Information about the Caller:
+  *Name (required)
+  *Call back number (required)
+  * Email address. (optional)
   
-The call center employee should select the reason for the call from a list of options
-  Options for the List of Reasons
-  Web-site
-  Administration
-  Transactions
+2. The call center employee should select the reason for the call from a list of options
+  *Options for the List of Reasons
+     *Web-site
+     *dministration
+     *ransactions
 
 
 ### Based on the Reason selected by the call center employee a list of fields should appear allowing the call center employee to write information about the call but also prompting and reminding them to ask the caller for certain information.
 
     List of data elements that will always be available:
-      Main Customer Complaint/ Extended Reason for Calling
-      Additional Notes
-      Checkbox: Issue Resolved [  ]
+      *Main Customer Complaint/ Extended Reason for Calling
+      *Additional Notes
+      *Checkbox: Issue Resolved [  ]
       Appears if Issue Resolved is Checked: Resolution Notes Textarea
-      Checkbox: Additional Steps Needed [  ]
-      Appears if Additional Steps Needed is Checked: Steps Textarea
+      *Checkbox: Additional Steps Needed [  ]
+      *Appears if Additional Steps Needed is Checked: Steps Textarea
     
 ### For Web-Site Related calls the fields that the call center employee needs to fill out are:
 
-    Verification ( Last 4 of SSN and Date of Birth or Security question)  (required)
-    Web Page (required): the actual page the user is calling about
-    Portion of the page (optional): navigation, footer, menu, dropdown etc.
-    Browser Type: Chrome, Firefox, Safari, Explorer, Other?
-    Browser Version (optional): can be handy for the development team.
-    Date of the Issue (required):
-    Time the issue happened (required):
-    Steps the user followed to cause the issue (optional)
+    *Verification ( Last 4 of SSN and Date of Birth or Security question)  (required)
+    *Web Page (required): the actual page the user is calling about
+    *Portion of the page (optional): navigation, footer, menu, dropdown etc.
+    *Browser Type: Chrome, Firefox, Safari, Explorer, Other?
+    *Browser Version (optional): can be handy for the development team.
+    *Date of the Issue (required):
+    *Time the issue happened (required):
+    *Steps the user followed to cause the issue (optional)
 
 
 ### For Administration Related calls the fields that the call center employee needs to fill out are:
 
-    Username (required)
-    Account number: (optional)
-    Verification ( Last 4 of SSN and Date of Birth or Security question)  (required)
-    What was the user’s issue? (why can’t they log in or trying to register or account lock) (required)
+    *Username (required)
+    *Account number: (optional)
+    *Verification ( Last 4 of SSN and Date of Birth or Security question)  (required)
+    *What was the user’s issue? (why can’t they log in or trying to register or account lock) (required)
 
 
 ### For Transaction Related calls the fields that the call center employee needs to fill out are:
 
-    Username (required)
-    Verification ( Last 4 of SSN and Date of Birth or Security question)  (required)
-    Transaction ID (required)
-    Date of transaction: (required)
-    Place of service: Place the transaction was taken place (store, restaurant , or place of business) (required)
-    Amount: The amount for the transaction (required)
-    Transaction type: Was the transaction a mistake or fraud or return ? (required)
+    *Username (required)
+    *Verification ( Last 4 of SSN and Date of Birth or Security question)  (required)
+    *Transaction ID (required)
+    *Date of transaction: (required)
+    *Place of service: Place the transaction was taken place (store, restaurant , or place of business) (required)
+    *Amount: The amount for the transaction (required)
+    *Transaction type: Was the transaction a mistake or fraud or return ? (required)
 
