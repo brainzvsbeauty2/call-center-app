@@ -12,6 +12,11 @@ The client wants an application that allows for recording call related informati
 
 3. The perfect application not only will allow for persisting information on a database but customizing the fields and dynamically generating the forms from those customizations. Customizations would be enabled through an administrative interface where any admin user would be able to add, remove and change the fields on the application.
 
+#### Screen Proto-types 
+
+![callcentercasentry (1)](https://user-images.githubusercontent.com/58577471/122614664-1818ad00-d055-11eb-9bd6-e8d8b2d00fad.png)
+
+
  ## Technical Requirements
 
 1. Display information for the employee to type in certain information while assisting callers.
