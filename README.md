@@ -38,12 +38,12 @@ The client wants an application that allows for recording call related informati
 ### Based on the Reason selected by the call center employee a list of fields should appear allowing the call center employee to write information about the call but also prompting and reminding them to ask the caller for certain information.
 
     List of data elements that will always be available:
-      * Main Customer Complaint/ Extended Reason for Calling
-      * Additional Notes
+      * Name
+      * Email: 
+      * Call back Number: 
+      * Appears if Additional Steps Needed is Checked: Steps Text Area
       * Checkbox: Issue Resolved [  ]
-      * Appears if Issue Resolved is Checked: Resolution Notes Textarea
-      * Checkbox: Additional Steps Needed [  ]
-      * Appears if Additional Steps Needed is Checked: Steps Textarea
+      * Main Customer Complaint/ Extended Reason for Calling
     
 ### For Web-Site Related calls the fields that the call center employee needs to fill out are:
 
@@ -56,7 +56,7 @@ The client wants an application that allows for recording call related informati
     * Time the issue happened (required):
     * Steps the user followed to cause the issue (optional)
     
-![callcentercasecreationweb](https://user-images.githubusercontent.com/58577471/122642786-2066fb80-d0da-11eb-9dbf-df2bb23d9519.png)
+![callcentercasecreationweb](https://user-images.githubusercontent.com/58577471/122643796-d41eba00-d0df-11eb-93a9-1ae002ec5cd5.png)
 
 
 ### For Administration Related calls the fields that the call center employee needs to fill out are:
@@ -66,7 +66,7 @@ The client wants an application that allows for recording call related informati
     * Verification ( Last 4 of SSN and Date of Birth or Security question)  (required)
     * What was the user’s issue? (why can’t they log in or trying to register or account lock) (required)
 
-![callcentercasecadmin](https://user-images.githubusercontent.com/58577471/122642800-31b00800-d0da-11eb-99e6-83c12776b66b.png)
+![callcentercasecadmin](https://user-images.githubusercontent.com/58577471/122643807-e0a31280-d0df-11eb-8d6e-f7a667fbca88.png)
 
 
 ### For Transaction Related calls the fields that the call center employee needs to fill out are:
@@ -79,6 +79,7 @@ The client wants an application that allows for recording call related informati
     * Amount: The amount for the transaction (required)
     * Transaction type: Was the transaction a mistake or fraud or return ? (required)
 
-![callcentercase transaction](https://user-images.githubusercontent.com/58577471/122642808-3ffe2400-d0da-11eb-95c7-9fe71e348e26.png)
+![callcentercase transaction (1)](https://user-images.githubusercontent.com/58577471/122643810-eac51100-d0df-11eb-898e-40d2ad4f3004.png)
+
 
 
