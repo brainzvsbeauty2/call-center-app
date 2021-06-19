@@ -14,7 +14,9 @@ The client wants an application that allows for recording call related informati
 
 #### Screen Proto-types 
 
-![Call Center Helper Home Screen](https://user-images.githubusercontent.com/58577471/122624961-a64e5c80-d070-11eb-9520-95bba21ba0bf.png)
+
+
+![Call Center Helper Home Screen](https://user-images.githubusercontent.com/58577471/122642818-54422100-d0da-11eb-8941-3a28e0122240.png)
 
 
 
@@ -54,7 +56,7 @@ The client wants an application that allows for recording call related informati
     * Time the issue happened (required):
     * Steps the user followed to cause the issue (optional)
     
-![callcentercasecreationweb](https://user-images.githubusercontent.com/58577471/122625011-f1686f80-d070-11eb-9f59-a787970e1a0f.png)
+![callcentercasecreationweb](https://user-images.githubusercontent.com/58577471/122642786-2066fb80-d0da-11eb-9dbf-df2bb23d9519.png)
 
 
 ### For Administration Related calls the fields that the call center employee needs to fill out are:
@@ -64,7 +66,7 @@ The client wants an application that allows for recording call related informati
     * Verification ( Last 4 of SSN and Date of Birth or Security question)  (required)
     * What was the user’s issue? (why can’t they log in or trying to register or account lock) (required)
 
-![callcentercasecadmin](https://user-images.githubusercontent.com/58577471/122625000-e44b8080-d070-11eb-8c33-40397c2b6330.png)
+![callcentercasecadmin](https://user-images.githubusercontent.com/58577471/122642800-31b00800-d0da-11eb-99e6-83c12776b66b.png)
 
 
 ### For Transaction Related calls the fields that the call center employee needs to fill out are:
@@ -77,5 +79,6 @@ The client wants an application that allows for recording call related informati
     * Amount: The amount for the transaction (required)
     * Transaction type: Was the transaction a mistake or fraud or return ? (required)
 
-![callcentercase transaction](https://user-images.githubusercontent.com/58577471/122624987-d269dd80-d070-11eb-949b-a07b173a3b0a.png)
+![callcentercase transaction](https://user-images.githubusercontent.com/58577471/122642808-3ffe2400-d0da-11eb-95c7-9fe71e348e26.png)
+
 
