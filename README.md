@@ -14,7 +14,8 @@ The client wants an application that allows for recording call related informati
 
 #### Screen Proto-types 
 
-![callcentercasentry (1)](https://user-images.githubusercontent.com/58577471/122614664-1818ad00-d055-11eb-9bd6-e8d8b2d00fad.png)
+![Call Center Helper Home Screen](https://user-images.githubusercontent.com/58577471/122624961-a64e5c80-d070-11eb-9520-95bba21ba0bf.png)
+
 
 
  ## Technical Requirements
@@ -52,6 +53,8 @@ The client wants an application that allows for recording call related informati
     * Date of the Issue (required):
     * Time the issue happened (required):
     * Steps the user followed to cause the issue (optional)
+    
+![callcentercasecreationweb](https://user-images.githubusercontent.com/58577471/122625011-f1686f80-d070-11eb-9f59-a787970e1a0f.png)
 
 
 ### For Administration Related calls the fields that the call center employee needs to fill out are:
@@ -60,6 +63,8 @@ The client wants an application that allows for recording call related informati
     * Account number: (optional)
     * Verification ( Last 4 of SSN and Date of Birth or Security question)  (required)
     * What was the user’s issue? (why can’t they log in or trying to register or account lock) (required)
+
+![callcentercasecadmin](https://user-images.githubusercontent.com/58577471/122625000-e44b8080-d070-11eb-8c33-40397c2b6330.png)
 
 
 ### For Transaction Related calls the fields that the call center employee needs to fill out are:
@@ -71,4 +76,6 @@ The client wants an application that allows for recording call related informati
     * Place of service: Place the transaction was taken place (store, restaurant , or place of business) (required)
     * Amount: The amount for the transaction (required)
     * Transaction type: Was the transaction a mistake or fraud or return ? (required)
+
+![callcentercase transaction](https://user-images.githubusercontent.com/58577471/122624987-d269dd80-d070-11eb-949b-a07b173a3b0a.png)
 
