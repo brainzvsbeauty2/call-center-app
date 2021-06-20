@@ -49,9 +49,9 @@ The client wants an application that allows for recording call related informati
 
     * Verification ( Last 4 of SSN and Date of Birth or Security question)  (required)
     * Web Page (required): the actual page the user is calling about
-    * Portion of the page (optional): navigation, footer, menu, dropdown etc.
+    * Portion of the page (optional): navigation, footer, menu, dropdown etc
     * Browser Type: Chrome, Firefox, Safari, Explorer, Other?
-    * Browser Version (optional): can be handy for the development team.
+    * Browser Version (optional): can be handy for the development team
     * Date of the Issue (required):
     * Time the issue happened (required):
     * Steps the user followed to cause the issue (optional)
