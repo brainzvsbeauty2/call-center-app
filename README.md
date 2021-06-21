@@ -23,7 +23,7 @@ The client wants an application that allows for recording call related informati
   * Contact Information about the Caller:
   * Name (required)
   * Call back number (required)
-  * Email address. (optional)
+  * Email address (optional)
   
 2. The call center employee should select the reason for the call from a list of options
   * Options for the List of Reasons
