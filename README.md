@@ -14,10 +14,7 @@ The client wants an application that allows for recording call related informati
 
 #### Screen Proto-types 
 
-
-
 ![Call Center Helper Home Screen](https://user-images.githubusercontent.com/58577471/122642818-54422100-d0da-11eb-8941-3a28e0122240.png)
-
 
 
  ## Technical Requirements
