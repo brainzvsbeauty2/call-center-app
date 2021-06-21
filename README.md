@@ -67,7 +67,7 @@ The client wants an application that allows for recording call related informati
     * Verification ( Last 4 of SSN and Date of Birth or Security question)  (required)
     * What was the user’s issue? (why can’t they log in or trying to register or account lock) (required)
 
-![callcentercasecadmin](https://user-images.githubusercontent.com/58577471/122828465-b609b300-d2b3-11eb-9a7a-03339b354bff.png)
+![callcentercasecadmin](https://user-images.githubusercontent.com/58577471/122828849-2fa1a100-d2b4-11eb-89c6-a471d8e01b0b.png)
 
 
 ### For Transaction Related calls the fields that the call center employee needs to fill out are:
