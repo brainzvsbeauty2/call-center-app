@@ -42,7 +42,7 @@ The client wants an application that allows for recording call related informati
       * Email: 
       * Call back Number: 
       * Appears if Additional Steps Needed is Checked: Steps Text Area
-      * Checkbox: Issue Resolved [  ]
+      * Checkbox for resloved issues 
       * Main Customer Complaint/ Extended Reason for Calling
     
 ### For Web-Site Related calls the fields that the call center employee needs to fill out are:
