@@ -56,7 +56,8 @@ The client wants an application that allows for recording call related informati
     * Time the issue happened (required):
     * Steps the user followed to cause the issue (optional)
     
-![callcentercasecreationweb](https://user-images.githubusercontent.com/58577471/122643796-d41eba00-d0df-11eb-93a9-1ae002ec5cd5.png)
+![callcentercasecreationweb](https://user-images.githubusercontent.com/58577471/122828288-7642cb80-d2b3-11eb-9bef-270092253996.png)
+
 
 
 ### For Administration Related calls the fields that the call center employee needs to fill out are:
@@ -66,7 +67,7 @@ The client wants an application that allows for recording call related informati
     * Verification ( Last 4 of SSN and Date of Birth or Security question)  (required)
     * What was the user’s issue? (why can’t they log in or trying to register or account lock) (required)
 
-![callcentercasecadmin](https://user-images.githubusercontent.com/58577471/122643807-e0a31280-d0df-11eb-8d6e-f7a667fbca88.png)
+![callcentercasecadmin](https://user-images.githubusercontent.com/58577471/122828465-b609b300-d2b3-11eb-9a7a-03339b354bff.png)
 
 
 ### For Transaction Related calls the fields that the call center employee needs to fill out are:
