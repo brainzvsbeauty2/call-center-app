@@ -60,7 +60,7 @@ The client wants an application that allows for recording call related informati
 ### For Administration Related calls the fields that the call center employee needs to fill out are:
 
     * Username (required)
-    * Account number: (optional)
+    * Account number (optional)
     * Verification ( Last 4 of SSN and Date of Birth or Security question)  (required)
     * What was the user’s issue? (why can’t they log in or trying to register or account lock) (required)
 
