@@ -56,7 +56,6 @@ The client wants an application that allows for recording call related informati
 ![callcentercasecreationweb](https://user-images.githubusercontent.com/58577471/122828288-7642cb80-d2b3-11eb-9bef-270092253996.png)
 
 
-
 ### For Administration Related calls the fields that the call center employee needs to fill out are:
 
     * Username (required)
